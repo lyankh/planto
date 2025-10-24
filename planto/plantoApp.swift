@@ -6,12 +6,17 @@
 //
 
 import SwiftUI
+import UserNotifications
 
 @main
 struct plantoApp: App {
+    init() {
+        NotificationManager.shared.requestAuthorization()
+    }
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView()   // هنعرّف ContentView تحت ليكون RootView
+                .preferredColorScheme(.dark)
         }
     }
 }
