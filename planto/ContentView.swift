@@ -18,7 +18,7 @@ enum WaterSchedule: String, CaseIterable, Identifiable, Codable {
     case every3Days  = "Every 3 days"
     case weekly      = "Once a week"
     case every10Days = "Every 10 days"
-    case every2Weeks = "Every 2 weeks"   // مهم موجود لتجنب الخطأ
+    case every2Weeks = "Every 2 weeks"
     var id: String { rawValue }
 }
 
@@ -271,7 +271,7 @@ struct MyPlantsView: View {
                     .padding(.top, 16)
                     .padding(.bottom, 12)
 
-                // Progress section (النص يتغير حسب الاكتمال مثل الصور)
+            
                 ProgressSection(
                     progress: store.progress,
                     text: store.completedCount == 0
@@ -282,7 +282,7 @@ struct MyPlantsView: View {
                 .padding(.bottom, 12)
 
                 if store.plants.isEmpty {
-                    // لما ما فيه نباتات، ما نعرض All Done — فقط دعوة للإضافة
+            
                     EmptyHintView()
                         .frame(maxWidth: .infinity, maxHeight: .infinity)
                 } else {
