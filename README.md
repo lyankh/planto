@@ -32,3 +32,18 @@ Planto/
 ├─ List/            # MyPlantsView
 │  └─ Components/   # GlassCard, ProgressSection, PlantRow, EmptyHintView, AllDoneToast
 └─ Sheets/          # PlantEditorSheet
+
+---
+
+## 🪴 Preview  
+> _“Your plants deserve care — and you deserve a reminder that feels gentle, not robotic.”_ 🌤️
+
+> Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.43.23.png
+
+Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.43.40.png
+
+Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.45.24.png
+
+Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.45.32.png
+
+Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.45.38.png
