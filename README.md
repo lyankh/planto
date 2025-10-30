@@ -37,16 +37,16 @@ Planto/
 
 ## 🪴 Preview  
 > _“Your plants deserve care — and you deserve a reminder that feels gentle, not robotic.”_ 🌤️
-<img src="Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.43.23.png"width="250">
+<img src="Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.43.23.png" width="250">
 
-<img src="Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.43.40.png"width="250">
-
-
-<img src="Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.45.24.png"width="250">
+<img src="Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.43.40.png" width="250">
 
 
-<img src="Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.45.32.png"width="250">
+<img src="Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.45.24.png" width="250">
 
 
-<img src="Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.45.38.png"width="250">
+<img src="Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.45.32.png" width="250">
+
+
+<img src="Simulator Screenshot - iPhone 17 - 2025-10-30 at 14.45.38.png" width="250">
 
